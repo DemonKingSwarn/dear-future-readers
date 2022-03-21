@@ -4,7 +4,7 @@ On February 2, 2020, a carbon copy of every public repository on GitHub will be 
 
 ## Notes
 
-* At the time of writing, my location is `23.035904, 84.538163` in the northeast of India.
+* At the time of writing, my location is `23.3426, 85.3099` in the northeast of India.
 * I was born in 2003 in a small town in Ranchi and grew up speaking Hindi, though these days I happen to be bilingual via and communicating mostly in English through work and social circles. I was also taught German and Sanskrit in school, but most of that has regressed.
 * My biggest aspirations in life are to express myself thoroughly and with no compromise through creation, to sustain healthy and meaningful habits that lead to happiness and self-fulfillment, to treat myself and others kindly, to foster creativity, fun and fulfillment in others, to wait and smell the flowers, to play.
 * Since I was a teenager, I have been struggling with mental health issues, hypothyroidism and a generally high-maintenance immune system, which I am all writing up to poor DNA.
